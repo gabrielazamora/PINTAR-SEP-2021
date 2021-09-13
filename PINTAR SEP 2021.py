@@ -10,6 +10,11 @@ Exercises
 
 """
 
+"""
+Gabriela zamora leal
+
+"""
+
 from turtle import *
 
 from freegames import vector
